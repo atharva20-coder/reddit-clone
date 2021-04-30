@@ -17,7 +17,7 @@ Steps to run this project:
 ![Image of Comment-On-Post](https://github.com/atharva20-coder/mock-images/blob/main/Register%20%E2%80%94%20Mozilla%20Firefox%2004-03-2021%2010_34_24.png)
 
 
-TO CONNECT DATABASE
-psql -U username
-password 
+TO CONNECT DATABASE<br>
+psql -U username<br>
+password <br>
 \c
